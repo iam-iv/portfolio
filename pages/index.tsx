@@ -2,8 +2,6 @@ import { ReactElement } from 'react';
 import Home from '../components/Home';
 import Layout from '../components/Layout';
 
-import styles from '../styles/Home.module.css';
-
 const Landing = () => {
   return (
     <>
