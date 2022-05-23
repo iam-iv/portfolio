@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <style>
           @import
-          url('https://fonts.googleapis.com/css2?family==Montserrat:ital,wght@0,200;0,400;0,700;1,500&display=swap');
+          url(https://fonts.googleapis.com/css2?family==Montserrat:ital,wght@0,200;0,400;0,700;1,500&display=swap);
         </style>
       </Head>
       <body>
